@@ -1,4 +1,5 @@
-# LenuxTify (logo.png)
+![Proje Logosu](./assets/logo.png)
+# LenuxTify
 - LenuxTify, kısacası Spotify çalma listelerini indirip, mp3 formatına dönüştürmenizi sağlayan bir uygulamadır.
 - LenuxTify, Spotify ve YouTube entegrasyonuyla çalışır.
 
